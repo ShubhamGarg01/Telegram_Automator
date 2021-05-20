@@ -1,0 +1,2 @@
+# Telegram_Automator
+Telegram Automator send messages to every memebers of group which we want send from input users. Step1:- Generate api_id ,api_hash in the API development tools to login Telegram. Step2:- install telethon module in CMD. (syntax:- pip install telethon) Step3:- Clone the code from the github and enter your details in the code. step4:- Write api_id, api_hash and phone number in the code. Step5:- At last run the code , after that enter the code which is generated in telegram App.
