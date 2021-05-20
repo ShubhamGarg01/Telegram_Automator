@@ -8,9 +8,9 @@ from telethon.tl.types import InputPeerEmpty
 from telethon.tl.types import InputPeerUser
 from telethon.errors.rpcerrorlist import PeerFloodError
 SLEEP_TIME = 10
-api_id = 5567609
-api_hash = '0f8926366db5ac5b0471cda73fb269cd'
-phone = '+91-8955090918'
+api_id = 
+api_hash = ' '
+phone = '+91- '
 client = TelegramClient(phone, api_id, api_hash)
 
 client.connect()
